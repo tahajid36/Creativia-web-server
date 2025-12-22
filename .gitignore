@@ -1,2 +1,5 @@
 .env
 adminsdk.json
+.vercel
+deploy.js 
+vercel.json
